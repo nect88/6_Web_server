@@ -43,6 +43,6 @@ elif (str2=="GET /1.html"):
     conn.send(str1.encode())
     f.close()
 else:
-	print("Takogo net")
+	print("Takoi stranitcy ne suchestvyet")
 #print("Connected", addr)
 conn.close()
